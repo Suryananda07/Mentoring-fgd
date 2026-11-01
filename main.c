@@ -2,4 +2,5 @@
 
 int main(){
   printf("Hello world");
+  printf("Kelompok js selamat berjuang suksess")
 }
